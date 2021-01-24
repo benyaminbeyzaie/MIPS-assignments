@@ -10,3 +10,7 @@ Write a program that prints a hourglass by 2n - 1 rows like that:
   + +
 + + + +
 ```
+
+
+## Midterm
+Write a program to calculate the inner product of two vectors.
